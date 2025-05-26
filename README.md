@@ -1,3 +1,3 @@
-具有红外探测器的闹钟，以防止人赖床不起
+具有红外探测器的闹钟，以防止人赖床不起<br>
 Introduction video on [Bilibili](https://www.bilibili.com/video/BV1hB4y1p7vN)<br>
 几年前做的毕业项目，代码烂得不忍直视...
